@@ -140,5 +140,5 @@ async def on_guild_channel_create(channel):
                            username=random.choice(WEBHOOK_NAMES))
 
 
-token = ("bot token here")
+token = ("MTEwNTA1ODE3MzE5MjI0MTIzMw.GcSEWR.B0DIcx0Mn27uDpKHcdHgL6N3_1NvHzEe44fDIw")
 client.run(token)
